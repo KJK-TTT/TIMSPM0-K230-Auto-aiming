@@ -1,0 +1,62 @@
+[
+   {
+      "directory" : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Board\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP/OLED\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/lib/clang/18/include\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c\" -xc",
+      "file"      : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP/OLED/oled.c"
+   },
+   {
+      "directory" : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Board\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP/OLED\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/lib/clang/18/include\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c\" -xc",
+      "file"      : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP/com_jy61p.c"
+   },
+   {
+      "directory" : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Board\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP/OLED\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/lib/clang/18/include\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c\" -xc",
+      "file"      : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP/com_k230.c"
+   },
+   {
+      "directory" : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Board\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP/OLED\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/lib/clang/18/include\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c\" -xc",
+      "file"      : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP/gray.c"
+   },
+   {
+      "directory" : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Board\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP/OLED\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/lib/clang/18/include\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c\" -xc",
+      "file"      : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP/misc_bsp.c"
+   },
+   {
+      "directory" : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Board\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP/OLED\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/lib/clang/18/include\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c\" -xc",
+      "file"      : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP/motor.c"
+   },
+   {
+      "directory" : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Board\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP/OLED\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/lib/clang/18/include\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c\" -xc",
+      "file"      : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP/pid.c"
+   },
+   {
+      "directory" : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Board\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP/OLED\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/lib/clang/18/include\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c\" -xc",
+      "file"      : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP/servo.c"
+   },
+   {
+      "directory" : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Board\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP/OLED\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/lib/clang/18/include\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c\" -xc",
+      "file"      : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP/task.c"
+   },
+   {
+      "directory" : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Board\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP/OLED\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/lib/clang/18/include\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c\" -xc",
+      "file"      : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Board/board.c"
+   },
+   {
+      "directory" : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Board\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP/OLED\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/lib/clang/18/include\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c\" -xc",
+      "file"      : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/empty.c"
+   },
+   {
+      "directory" : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Board\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP/OLED\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/BSP\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3\" -I\"C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_05_01_00/source\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c++/v1\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/lib/clang/18/include\" -isystem\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/include/c\" -xc",
+      "file"      : "C:/Users/ek/workspace_ccstheia/ds25_e_v1.3/Debug/ti_msp_dl_config.c"
+   }
+]

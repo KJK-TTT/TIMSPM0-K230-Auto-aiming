@@ -1,0 +1,16 @@
+"./empty.o"
+"./ti_msp_dl_config.o"
+"./startup_mspm0g350x_ticlang.o"
+"./BSP/OLED/oled.o"
+"./BSP/com_jy61p.o"
+"./BSP/com_k230.o"
+"./BSP/gray.o"
+"./BSP/misc_bsp.o"
+"./BSP/motor.o"
+"./BSP/pid.o"
+"./BSP/servo.o"
+"./BSP/task.o"
+"./Board/board.o"
+-l"./device_linker.cmd"
+-ldevice.cmd.genlibs
+-llibc.a
