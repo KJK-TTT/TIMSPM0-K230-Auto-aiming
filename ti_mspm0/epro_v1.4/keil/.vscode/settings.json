@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "gray.h": "c",
+        "task.h": "c",
+        "encoder_motor.h": "c",
+        "com_lcd.h": "c",
+        "pid.h": "c",
+        "cmath": "c",
+        "com_jy61p.h": "c",
+        "misc_bsp.h": "c"
+    }
+}
